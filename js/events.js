@@ -1,5 +1,4 @@
-//define functions here
-
+function 
 
 $(document).ready(function(){
 
