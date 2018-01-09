@@ -24,6 +24,8 @@ function submitIt(){
   })
 }
 
+getIt();frameIt();pressIt();submitIt();
+
 $(document).ready(function(){
 
 // call functions here
