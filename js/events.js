@@ -1,11 +1,13 @@
 function getIt(){
-  $("p").on("click", function(key){
+  $("p").on("click", function(){
     alert("Hey!")
   })
 } 
 
 function frameIt(){
-  $("img").on("load"), function
+  $("img").on("load"), function(){
+    
+  }
 }
 
 $(document).ready(function(){
