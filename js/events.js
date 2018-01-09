@@ -12,9 +12,14 @@ function frameIt(){
 
 function pressIt(){
   $('#typing').on('keydown', function(key){
-
-    if(key.which === 81)
+    if(key.which === 71){
+      alert('g key pressed');
+    }
   })
+}
+
+function submitIt(){
+  $()
 }
 
 $(document).ready(function(){
