@@ -5,7 +5,7 @@ function getIt(){
 } 
 
 function frameIt(){
-  $("")
+  $(".tasty").on("")
 }
 
 $(document).ready(function(){
